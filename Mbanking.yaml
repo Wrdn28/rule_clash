@@ -1,0 +1,29 @@
+payload:
+ #BCA
+  - DOMAIN-KEYWORD,bca
+  - DOMAIN-KEYWORD,klikbca
+  - DOMAIN-SUFFIX,bca.co.id
+  - DST-PORT,33303
+
+ #BRI (BRI Link,  BRImo, BRIcredit)
+  - DOMAIN-KEYWORD,bri
+  - DOMAIN-SUFFIX,bri.co.id
+
+ #Mandiri
+  - DOMAIN-KEYWORD,mandiri
+  - DOMAIN-SUFFIX,mandiri.co.id
+  - DOMAIN-SUFFIX,bankmandiri.co.id
+
+ #Bank Syariah Mandiri
+  - DOMAIN-SUFFIX,bsm.co.id
+
+ #Muamalat
+  - DOMAIN-SUFFIX,bankmuamalat.co.id
+
+ #Permata
+  - DOMAIN-KEYWORD,permata
+  - DOMAIN-KEYWORD,permatanet
+  - DOMAIM-KEYWORD,permatamobilex
+  - DOMAIN-SUFFIX,new.permatanet.com
+  - DOMAIN-SUFFIX,permatanet.com
+  - DOMAIN-SUFFIX,permatabank.com

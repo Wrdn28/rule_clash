@@ -1,5 +1,5 @@
 payload:
 
-IP-CIDR,137.74.4.6/24
+  - IP-CIDR,137.74.4.6/24
   - DST-PORT,7777
   - DST-PORT,8203

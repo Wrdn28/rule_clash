@@ -22,6 +22,7 @@ payload:
 
  #Permata
   - DOMAIN-KEYWORD,permata
+  - DOMAIN-KEYWORD,permatabank
   - DOMAIN-KEYWORD,permatanet
   - DOMAIM-KEYWORD,permatamobilex
   - DOMAIN-SUFFIX,new.permatanet.com
